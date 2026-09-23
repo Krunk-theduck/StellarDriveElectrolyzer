@@ -1,0 +1,7 @@
+{
+    "id":  "stellardrive-electrolyzer",
+    "name":  "Electrolyzer",
+    "author":  "Krunk",
+    "version":  "0.1.0",
+    "description":  "Restores the cut oxygen generator as a buildable part behind its own research node. Host side, so everyone in a session needs it. Needs SDModKit."
+}
