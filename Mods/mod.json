@@ -3,5 +3,6 @@
     "name":  "Electrolyzer",
     "author":  "Krunk",
     "version":  "0.1.1",
-    "description":  "Brings in the new electrolyzer part from the demo using the old oxygen generator model. Produces oxygen. Needs SDModKit."
+    "description":  "Brings in the new electrolyzer part from the demo using the old oxygen generator model. Produces oxygen. Needs SDModKit.",
+    "thumbnail": "image.png"
 }
