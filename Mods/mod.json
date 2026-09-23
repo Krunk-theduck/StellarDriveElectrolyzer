@@ -3,5 +3,5 @@
     "name":  "Electrolyzer",
     "author":  "Krunk",
     "version":  "0.1.0",
-    "description":  "Restores the cut oxygen generator as a buildable part behind its own research node. Host side, so everyone in a session needs it. Needs SDModKit."
+    "description":  "Brings in the new electrolyzer part from the demo using the old oxygen generator model. Produces oxygen. Needs SDModKit."
 }
